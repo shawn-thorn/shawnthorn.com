@@ -1,0 +1,4 @@
+theme = "hugo-academic"
+baseURL = "http://shawnthorn.com/"
+languageCode = "en-us"
+title = "Shawn Thorn"
