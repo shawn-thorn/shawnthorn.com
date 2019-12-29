@@ -13,8 +13,8 @@
 
   // Dynamically get responsive navigation bar height for offsetting Scrollspy.
   function getNavBarHeight() {
-    let $navbar = $('#navbar-main');
-    let navbar_offset = $navbar.outerHeight();
+    let $navbar = $('.navbar');
+    let navbar_offset = $navbar.innerHeight();
     console.debug('Navbar height: ' + navbar_offset);
     return navbar_offset;
   }
@@ -29,12 +29,11 @@
     // If `target` is undefined or HashChangeEvent object, set it to window's hash.
     // Decode the hash as browsers can encode non-ASCII characters (e.g. Chinese symbols).
     target = (typeof target === 'undefined' || typeof target === 'object') ? decodeURIComponent(window.location.hash) : target;
+    // Escape special chars from IDs, such as colons found in Markdown footnote links.
+    target = '#' + $.escapeSelector(target.substring(1));  // Previously, `target = target.replace(/:/g, '\\:');`
 
     // If target element exists, scroll to it taking into account fixed navigation bar offset.
     if($(target).length) {
-      // Escape special chars from IDs, such as colons found in Markdown footnote links.
-      target = '#' + $.escapeSelector(target.substring(1));  // Previously, `target = target.replace(/:/g, '\\:');`
-
       let elementOffset = Math.ceil($(target).offset().top - getNavBarHeight());  // Round up to highlight right ID!
       $('body').addClass('scrolling');
       $('html, body').animate({
@@ -43,7 +42,7 @@
         $('body').removeClass('scrolling');
       });
     }else{
-      console.debug('Cannot scroll to target `#'+target+'`. ID not found!');
+      console.warn('Cannot scroll to '+target+'. ID not found!');
     }
   }
 
@@ -94,6 +93,19 @@
         scrollTop: elementOffset
       }, 800);
     }
+  });
+
+  /* ---------------------------------------------------------------------------
+   * Smooth scrolling for Back To Top link.
+   * --------------------------------------------------------------------------- */
+
+  $('#back_to_top').on('click', function(event) {
+    event.preventDefault();
+    $('html, body').animate({
+      'scrollTop': 0
+    }, 800, function() {
+      window.location.hash = "";
+    });
   });
 
   /* ---------------------------------------------------------------------------
@@ -385,30 +397,25 @@
    * --------------------------------------------------------------------------- */
 
   $(document).ready(function() {
-    // Fix Goldmark table of contents.
-    // - Must be performed prior to initializing ScrollSpy.
+    // Fix Hugo's auto-generated Table of Contents.
+    //   Must be performed prior to initializing ScrollSpy.
+    $('#TableOfContents > ul > li > ul').unwrap().unwrap();
     $('#TableOfContents').addClass('nav flex-column');
     $('#TableOfContents li').addClass('nav-item');
     $('#TableOfContents li a').addClass('nav-link');
 
-    // Fix Goldmark task lists (remove bullet points).
+    // Fix Mmark task lists (remove bullet points).
     $("input[type='checkbox'][disabled]").parents('ul').addClass('task-list');
 
     // Fix Mermaid.js clash with Highlight.js.
-    // Refactor Mermaid code blocks as divs to prevent Highlight parsing them and enable Mermaid to parse them.
     let mermaids = [];
     [].push.apply(mermaids, document.getElementsByClassName('language-mermaid'));
-    for (let i = 0; i < mermaids.length; i++) {
+    for (i = 0; i < mermaids.length; i++) {
       $(mermaids[i]).unwrap('pre');  // Remove <pre> wrapper.
       $(mermaids[i]).replaceWith(function(){
         // Convert <code> block to <div> and add `mermaid` class so that Mermaid will parse it.
         return $("<div />").append($(this).contents()).addClass('mermaid');
       });
-    }
-    // Initialise code highlighting if enabled for this page.
-    // Note: this block should be processed after the Mermaid code-->div conversion.
-    if (code_highlighting) {
-      hljs.initHighlighting();
     }
 
     // Get theme variation (day/night).
@@ -438,7 +445,7 @@
         codeHlDark.disabled = false;
       }
       if (diagramEnabled) {
-        mermaid.initialize({ theme: 'dark', securityLevel: 'loose' });
+        mermaid.initialize({ theme: 'dark' });
       }
       $('.js-dark-toggle i').removeClass('fa-moon').addClass('fa-sun');
     } else {
@@ -448,7 +455,7 @@
         codeHlDark.disabled = true;
       }
       if (diagramEnabled) {
-        mermaid.initialize({ theme: 'default', securityLevel: 'loose' });
+        mermaid.initialize({ theme: 'default' });
       }
       $('.js-dark-toggle i').removeClass('fa-sun').addClass('fa-moon');
     }
@@ -456,14 +463,6 @@
     // Toggle day/night mode.
     $('.js-dark-toggle').click(function(e) {
       e.preventDefault();
-      toggleDarkMode(codeHlEnabled, codeHlLight, codeHlDark, diagramEnabled);
-    });
-
-    // Live update of day/night mode on system preferences update (no refresh required).
-    const darkModeMediaQuery = window.matchMedia('(prefers-color-scheme: dark)');
-    darkModeMediaQuery.addListener((e) => {
-      const darkModeOn = e.matches;
-      console.log(`Dark mode is ${darkModeOn ? '🌒 on' : '☀️ off'}.`);
       toggleDarkMode(codeHlEnabled, codeHlLight, codeHlDark, diagramEnabled);
     });
   });
@@ -544,16 +543,6 @@
       // window.addEventListener('hashchange', filter_publications, false);
     }
 
-    // Scroll to top of page.
-    $('.back-to-top').click( function(event) {
-      event.preventDefault();
-      $('html, body').animate({
-        'scrollTop': 0
-      }, 800, function() {
-        window.location.hash = "";
-      });
-    });
-
     // Load citation modal on 'Cite' click.
     $('.js-cite-modal').click(function(e) {
       e.preventDefault();
@@ -618,17 +607,5 @@
 
   // Normalize Bootstrap carousel slide heights.
   $(window).on('load resize orientationchange', normalizeCarouselSlideHeights);
-
-  // Automatic main menu dropdowns on mouse over.
-  $('body').on('mouseenter mouseleave', '.dropdown', function (e) {
-    var dropdown = $(e.target).closest('.dropdown');
-    var menu = $('.dropdown-menu', dropdown);
-    dropdown.addClass('show');
-    menu.addClass('show');
-    setTimeout(function () {
-      dropdown[dropdown.is(':hover') ? 'addClass' : 'removeClass']('show');
-      menu[dropdown.is(':hover') ? 'addClass' : 'removeClass']('show');
-    }, 300);
-  });
 
 })(jQuery);
