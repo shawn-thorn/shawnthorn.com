@@ -6,7 +6,7 @@
 widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 989  # Order that this section will appear.
+weight = 988  # Order that this section will appear.
 
 title = "Practicing over 30 years."
 subtitle = ""
@@ -22,7 +22,7 @@ subtitle = ""
   #   Any HTML color name or Hex value is valid.
 
   # Background color.
-  color = "#666"
+  color = "orange"
   
   # Background gradient.
   # gradient_start = "DeepSkyBlue"

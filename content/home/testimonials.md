@@ -30,7 +30,7 @@ height = ""
 
   # Overlay a color or image (optional).
   #   Deactivate an option by commenting out the line, prefixing it with `#`.
-  overlay_color = "#666"  # An HTML color value.
+  overlay_color = "orange"  # An HTML color value.
   overlay_img = ""  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 
@@ -61,7 +61,7 @@ Shawn truly has a unique way in bringing out the best in children, all children.
 
   # Overlay a color or image (optional).
   #   Deactivate an option by commenting out the line, prefixing it with `#`.
-  overlay_color = "#666"  # An HTML color value.
+  overlay_color = "orange"  # An HTML color value.
   overlay_img = ""  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 
@@ -78,7 +78,7 @@ Shawn has helped me with all subjects. My behavier was bad and now it is good. E
 
   # Overlay a color or image (optional).
   #   Deactivate an option by commenting out the line, prefixing it with `#`.
-  overlay_color = "#666"  # An HTML color value.
+  overlay_color = "orange"  # An HTML color value.
   overlay_img = ""  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 
@@ -95,7 +95,7 @@ Shawn is one the most intelligent and kind hearted people I know.
 
   # Overlay a color or image (optional).
   #   Deactivate an option by commenting out the line, prefixing it with `#`.
-  overlay_color = "#666"  # An HTML color value.
+  overlay_color = "orange"  # An HTML color value.
   overlay_img = ""  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 
@@ -113,7 +113,7 @@ R Banwait, Age 12, 2012
 
   # Overlay a color or image (optional).
   #   Deactivate an option by commenting out the line, prefixing it with `#`.
-  overlay_color = "#666"  # An HTML color value.
+  overlay_color = "orange"  # An HTML color value.
   overlay_img = ""  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 
@@ -129,7 +129,7 @@ Norman, 7-years-old, 2017
 
   # Overlay a color or image (optional).
   #   Deactivate an option by commenting out the line, prefixing it with `#`.
-  overlay_color = "#666"  # An HTML color value.
+  overlay_color = "orange"  # An HTML color value.
   overlay_img = ""  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 
@@ -153,7 +153,7 @@ Gill, 2017
 
   # Overlay a color or image (optional).
   #   Deactivate an option by commenting out the line, prefixing it with `#`.
-  overlay_color = "#666"  # An HTML color value.
+  overlay_color = "orange"  # An HTML color value.
   overlay_img = ""  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 
@@ -175,7 +175,7 @@ K, Taneja, Age 16, 2016
 
   # Overlay a color or image (optional).
   #   Deactivate an option by commenting out the line, prefixing it with `#`.
-  overlay_color = "#666"  # An HTML color value.
+  overlay_color = "orange"  # An HTML color value.
   overlay_img = ""  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 
@@ -193,7 +193,7 @@ Carol, 2017
 
   # Overlay a color or image (optional).
   #   Deactivate an option by commenting out the line, prefixing it with `#`.
-  overlay_color = "#666"  # An HTML color value.
+  overlay_color = "orange"  # An HTML color value.
   overlay_img = ""  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 
@@ -208,7 +208,7 @@ You are a gifted child whisperer. I want you to know that a miraculous change ha
 
   # Overlay a color or image (optional).
   #   Deactivate an option by commenting out the line, prefixing it with `#`.
-  overlay_color = "#666"  # An HTML color value.
+  overlay_color = "orange"  # An HTML color value.
   overlay_img = ""  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 
@@ -224,7 +224,7 @@ From our first conversation on the phone I felt Shawn had the capability to ask 
 
   # Overlay a color or image (optional).
   #   Deactivate an option by commenting out the line, prefixing it with `#`.
-  overlay_color = "#666"  # An HTML color value.
+  overlay_color = "orange"  # An HTML color value.
   overlay_img = ""  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 
@@ -242,7 +242,7 @@ Shawn..Shawn.. Shawn.., Thank you SO much for all your magic – I know that [my
 
   # Overlay a color or image (optional).
   #   Deactivate an option by commenting out the line, prefixing it with `#`.
-  overlay_color = "#666"  # An HTML color value.
+  overlay_color = "orange"  # An HTML color value.
   overlay_img = ""  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 
@@ -258,7 +258,7 @@ Within weeks of her first sessions with Shawn, our daughter was more confident a
 
   # Overlay a color or image (optional).
   #   Deactivate an option by commenting out the line, prefixing it with `#`.
-  overlay_color = "#666"  # An HTML color value.
+  overlay_color = "orange"  # An HTML color value.
   overlay_img = ""  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 
@@ -275,7 +275,7 @@ Thank you, immensely!
 
   # Overlay a color or image (optional).
   #   Deactivate an option by commenting out the line, prefixing it with `#`.
-  overlay_color = "#666"  # An HTML color value.
+  overlay_color = "orange"  # An HTML color value.
   overlay_img = ""  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 

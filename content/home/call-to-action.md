@@ -8,7 +8,7 @@ weight = 12  # Order that this section will appear.
 title = "Arrange a free call now."
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
-hero_media = "hero-academic.png"
+hero_media = "shawn_with_kids.jpg"
 
 [design.background]
   # Apply a background color, gradient, or image.
@@ -37,14 +37,12 @@ hero_media = "hero-academic.png"
   url = "#contact"
   label = "Email Shawn"
   icon_pack = "fas"
-  icon = "download"
+  icon = "envelope"
 
   
 [cta_alt]
-  url = "778-868-4458"
+  url = "tel:7788684458"
   label = "Or call 778-868-4458"
-  icon_pack = "fas"
-  icon = "download"
 
 # Note. An optional note to show underneath the links.
 # [cta_note]

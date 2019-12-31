@@ -13,7 +13,7 @@ subtitle = ""
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
-  columns = "2"
+  columns = "1"
 
 [design.background]
   # Apply a background color, gradient, or image.
@@ -47,6 +47,4 @@ subtitle = ""
  css_class = ""
 +++
 
-Shawn is committed to working with you to determine the level of assistance your child requires, and to building a supportive program around it. He bridges the developmental gaps and expands your child's learning potential. Shawn has experience working with children of varying ages and abilities.
-
-Shawn provides 1-to-1 applied behaviour methods that assist children and youth in developing skills, specifically in the areas of communication, social skills, independence, behaviour, cognition, motor skills, independence, and more.
+Shawn will primarily work with the child at your home. Sessions are usually 1-2 hours, anywhere from 2-5 times per week. Shawn may also help the child adapt to outside environments such as grocery stores or restaurants. 
