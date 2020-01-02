@@ -18,6 +18,6 @@ autolink = true
 email_form = 1
 +++
 
-Call Shawn at 778-868-4458.
+Call Shawn at 778-868-4458 or email at 2stepsforward@gmail.com
 
 Or, send a message:
