@@ -49,4 +49,4 @@ subtitle = ""
 
 Shawn finds the core cause of your child's difficulties, as opposed to using medication. His holistic and sugar-free approach keeps youths mentally, physically, and emotionally engaged.
 
-Shawn can help wean your child from medications.
+Shawn can help wean your child off of medications.

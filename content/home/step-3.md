@@ -8,7 +8,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 23  # Order that this section will appear.
 
-title = "What does Step 3 look like?"
+title = "The Result"
 subtitle = ""
 
 [design]
@@ -47,4 +47,4 @@ subtitle = ""
  css_class = ""
 +++
 
-Shawn will primarily work with the child at your home. Sessions are usually 1-2 hours, anywhere from 2-5 times per week. Shawn may also help the child adapt to outside environments such as grocery stores or restaurants. 
+An improved quality of life for the whole family, by helping your child build age-appropriate skills and confidence.

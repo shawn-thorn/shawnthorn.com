@@ -50,5 +50,3 @@ subtitle = ""
 Shawn works with your child in your home environment so that he can observe your child's behaviour in an environment that's familiar to them. This helps Shawn arrive at solutions quicker than if sessions were held in an unusual setting like an office.
 
 Therapy at home also allows parents to work on therapeutic goals with materials available at home. Beyond the therapeutic benefits, therapy at home provides parents the convenience of having one less appointment to drive their child to and more time to spend with their child.
-
-Shawn may also work with your child at their school or daycare to observe their behaviour and social interaction. Shawn consults with the teacher about strategies for teaching and engaging with your child. 

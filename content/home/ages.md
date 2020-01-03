@@ -8,7 +8,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 34  # Order that this section will appear.
 
-title = "Fees"
+title = "Ages"
 subtitle = ""
 
 [design]
@@ -47,5 +47,4 @@ subtitle = ""
  css_class = ""
 +++
 
-Shawn's fees range between $85 - 110 per hour, depending on your location and/or therapy demands.
-
+Shawn works with a wide range of ages, from toddler to teenager. 

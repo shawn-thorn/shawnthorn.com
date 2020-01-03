@@ -6,14 +6,14 @@
 widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 22  # Order that this section will appear.
+weight = 35  # Order that this section will appear.
 
-title = "The Therapy Process"
+title = "Pricing"
 subtitle = ""
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
-  columns = "1"
+  columns = "2"
 
 [design.background]
   # Apply a background color, gradient, or image.
@@ -29,11 +29,11 @@ subtitle = ""
   # gradient_end = "SkyBlue"
   
   # Background image.
-  # image = "headers/bubbles-wide.jpg"  # Name of image in `static/img/`.
-  # image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
+  image = "sunny_sky.jpg"  # Name of image in `static/img/`.
+  image_darken = 0.2  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
 
   # Text color (true=light or false=dark).
-  text_color_light = false
+  text_color_light = true
 
 [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
@@ -47,6 +47,5 @@ subtitle = ""
  css_class = ""
 +++
 
-Shawn will primarily work one-on-one with the child at your home using various techniques such as art therapy, social play, games, role play, positive reinforcement, visual charts, and many others. Occasionally, he will also meet with the family as a whole, as well as help the child adapt to outside environments such as grocery stores or restaurants via excursions.
+Shawn's fees range between $90 - 110 per hour, depending on your location and/or therapy demands. 
 
-Although Shawn's focus is behaviour and cognition, his holistic approach covers all areas of a child's development. This means he may carefully assemble a team of specialists such as tutors, speech pathologists, etc. whenever the child would benefit most from these resources. He remains in regular contact with the team to ensure your child is receiving the best help, by observing the child's classroom, home environment, present specialists, etc.
