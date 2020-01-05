@@ -8,7 +8,7 @@ weight = 12  # Order that this section will appear.
 title = "Arrange a free call now."
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
-hero_media = "shawn_with_kids.jpg"
+hero_media = "high-five.png"
 
 [design.background]
   # Apply a background color, gradient, or image.
