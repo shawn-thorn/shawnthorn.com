@@ -6,9 +6,9 @@
 widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 35  # Order that this section will appear.
+weight = 33  # Order that this section will appear.
 
-title = "Pricing"
+title = "Quickly solve child frustration"
 subtitle = ""
 
 [design]
@@ -47,5 +47,8 @@ subtitle = ""
  css_class = ""
 +++
 
-Shawn's fees range between $90 - 110 per hour, depending on your location and/or therapy demands. 
+"Terrible twos" aren't just harmless, cute words. They profoundly impact what we expect and, therefore, what we see. If these behaviours are not approached with the right perspective, children can take these behaviours to preschool and elementary school.
 
+<!-- Understanding your child's development is key to changing your language and how you view their behaviour. Phrases like "terrible twos" aren't harmless, cute words. They profoundly impact what we expect and, therefore, what we see. -->
+
+<!-- "Frustrated Twos": If not approached with the right perspective, children can take these behaviours to preschool and elementary school. Behaviour modification with a positive outcome. -->

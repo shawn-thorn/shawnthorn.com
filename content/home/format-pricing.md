@@ -5,10 +5,10 @@
 
 widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = true  # Activate this widget? true/false
-weight = 32  # Order that this section will appear.
+active = false  # Activate this widget? true/false
+weight = 44  # Order that this section will appear.
 
-title = "At-home approach."
+title = "Pricing"
 subtitle = ""
 
 [design]
@@ -47,6 +47,5 @@ subtitle = ""
  css_class = ""
 +++
 
-Shawn works with your child in your home environment so that he can observe your child's behaviour in an environment that's familiar to them. This helps Shawn arrive at solutions quicker than if sessions were held in an unusual setting like an office.
+Shawn's fees range between $90 - 110 per hour, depending on your location and/or therapy demands. 
 
-Therapy at home also allows parents to work on therapeutic goals with materials available at home. Beyond the therapeutic benefits, therapy at home provides parents the convenience of having one less appointment to drive their child to and more time to spend with their child.

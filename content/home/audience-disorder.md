@@ -6,9 +6,9 @@
 widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 30  # Order that this section will appear.
+weight = 32  # Order that this section will appear.
 
-title = "A tailored approach based on your needs."
+title = "Expert treatment for children under the spectrum."
 subtitle = ""
 
 [design]
@@ -47,6 +47,20 @@ subtitle = ""
  css_class = ""
 +++
 
-Shawn is committed to working with you to determine the level of assistance your child requires, and to building a supportive program around it. He bridges the developmental gaps and expands your child's learning potential. Shawn has experience working with children of varying ages and abilities.
+Shawn's specialty is in working with children with various pervasive neurological disorders, including: 
 
-Shawn provides 1-to-1 applied behaviour methods that assist children and youth in developing skills, specifically in the areas of communication, social skills, independence, behaviour, cognition, motor skills, independence, and more.
+- fetal alcohol syndrome disorder
+- autism spectrum disorder
+- attention deficit hyperactivity disorder
+- oppositional defiance disorder
+- bipolar disorder
+- depression/stress-related disorders
+- neurological or physiological conditions
+- prader-willi syndrome
+- difficulties with family or peer relationships
+- psychological effects of physical or sexual abuse
+- psychosis
+- schizophrenic disorder
+
+And more.
+

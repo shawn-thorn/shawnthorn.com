@@ -6,9 +6,9 @@
 widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 33  # Order that this section will appear.
+weight = 31  # Order that this section will appear.
 
-title = "Expert treatment for children under the spectrum."
+title = "Ages"
 subtitle = ""
 
 [design]
@@ -47,20 +47,4 @@ subtitle = ""
  css_class = ""
 +++
 
-Shawn's specialty is in working with children with various pervasive neurological disorders, including: 
-
-- fetal alcohol syndrome disorder
-- autism spectrum disorder
-- attention deficit hyperactivity disorder
-- oppositional defiance disorder
-- bipolar disorder
-- depression/stress-related disorders
-- neurological or physiological conditions
-- prader-willi syndrome
-- difficulties with family or peer relationships
-- psychological effects of physical or sexual abuse
-- psychosis
-- schizophrenic disorder
-
-And more.
-
+Shawn works with a wide range of ages, from toddler to teenager. 

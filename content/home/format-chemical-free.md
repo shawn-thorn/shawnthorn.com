@@ -6,9 +6,9 @@
 widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 34  # Order that this section will appear.
+weight = 43  # Order that this section will appear.
 
-title = "Ages"
+title = "Chemical-free approach."
 subtitle = ""
 
 [design]
@@ -47,4 +47,6 @@ subtitle = ""
  css_class = ""
 +++
 
-Shawn works with a wide range of ages, from toddler to teenager. 
+Shawn finds the core cause of your child's difficulties, as opposed to using medication. His holistic and sugar-free approach keeps youths mentally, physically, and emotionally engaged.
+
+Shawn can help wean your child off of medications.
