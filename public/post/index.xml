@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Shawn Thorn Behavioural and Cognitive Therapy for Children</title>
-    <link>/authors/shawn/</link>
-      <atom:link href="/authors/shawn/index.xml" rel="self" type="application/rss+xml" />
-    <description>Shawn Thorn Behavioural and Cognitive Therapy for Children</description>
+    <title>Posts | Shawn Thorn Behavioural and Cognitive Therapy for Children</title>
+    <link>/post/</link>
+      <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    <description>Posts</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 23 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
-      <title>Shawn Thorn Behavioural and Cognitive Therapy for Children</title>
-      <link>/authors/shawn/</link>
+      <title>Posts</title>
+      <link>/post/</link>
     </image>
     
     <item>
