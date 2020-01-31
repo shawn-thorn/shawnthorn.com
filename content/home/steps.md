@@ -21,8 +21,8 @@ subtitle = ""
   description = "Shawn can let you know how he can help your child, as well as answer any questions you may have. You will not be asked to commit right away, and don't worry, you will not be contacted again without your consent."
   
 [[feature]]
-  icon = "calendar-alt"
-  icon_pack = "fas"
+  icon = "wpexplorer"
+  icon_pack = "fab"
   name = "2 - __Free__: Discovery"
   description = "This is when Shawn determines whether or not he is able to assist you. This can be done over the phone, and/or in person at your home."  
   
