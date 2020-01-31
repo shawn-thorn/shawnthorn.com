@@ -23,13 +23,13 @@ subtitle = ""
 [[feature]]
   icon = "calendar-alt"
   icon_pack = "fas"
-  name = "2 - __Free__: first visit with Shawn."
-  description = "This should happen in your home environment so that Shawn can observe your child in their usual surroundings. You can do this by sending an email, calling Shawn back, or scheduling it during the initial phone call."  
+  name = "2 - __Free__: Discovery"
+  description = "This is when Shawn determines whether or not he is able to assist you. This can be done over the phone, and/or in person at your home."  
   
 [[feature]]
   icon = "user-friends"
   icon_pack = "fas"
   name = "3 - Schedule regular sessions with the child."
-  description = "After the first meeting, you and Shawn can set up a regular time for at-home sessions, usually 2-3 days per week. These sessions will mostly one-on-one with the child, and occasionally with the family. You will receive regular reports and communications containing helpful insight and actions."
+  description = "After the discovery, you and Shawn can set up a regular time for at-home sessions, usually 2-3 days per week. These sessions will mostly one-on-one with the child, and occasionally with the family. You will receive regular reports and communications containing helpful insight and actions."
 
 +++
