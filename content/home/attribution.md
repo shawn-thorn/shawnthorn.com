@@ -51,6 +51,6 @@ Attribution:
 
 Photo of Vancouver, BC from [JamesZ_Flickr](https://www.flickr.com/photos/jamesz_flickr/484634587) under the [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/) license.
 
-Sunny sky photo is from [Pexels](https://www.pexels.com/photo/sky-sunny-clouds-cloudy-3768/).
+<!-- Sunny sky photo is from [Pexels](https://www.pexels.com/photo/sky-sunny-clouds-cloudy-3768/). -->
 
 Sunflower photo is from [Pexels](https://www.pexels.com/photo/photo-of-sunflower-1214259/).
