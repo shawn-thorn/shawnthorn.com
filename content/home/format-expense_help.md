@@ -49,6 +49,6 @@ subtitle = ""
 
 
 
-Shawn charges an hourly rate between 90 and 110 dollars. Don't forget, you can stop services at any time.
+Shawn charges $110 per hour. Don't forget, you can stop services at any time.
 
 You might qualify for assistance from the SelfDesign Learning Community, or the Autism Funding Unit if your child has an Autism Spectrum Disorder diagnosis.

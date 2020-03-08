@@ -24,12 +24,12 @@ subtitle = ""
   icon = "play-circle"
   icon_pack = "far"
   name = "2 - Getting Started"
-  description = "This is when Shawn meets with the parent(s) to discuss short- and long-term goals."  
+  description = "This is when Shawn meets with the parent(s) to discuss short- and long-term goals. Set up a regular time for at-home sessions, usually 2-3 days per week."  
   
 [[feature]]
   icon = "user-friends"
   icon_pack = "fas"
-  name = "3 - Schedule regular sessions with the child."
-  description = "After the discovery, you and Shawn can set up a regular time for at-home sessions, usually 2-3 days per week. These sessions will mostly one-on-one with the child, and occasionally with the family. You will receive regular reports and communications containing helpful insight and actions."
+  name = "3 - Regular sessions with the child."
+  description = "These sessions will mostly be one-on-one with the child, and occasionally with the family. You will receive regular reports and communications containing helpful insight and actions."
 
 +++
