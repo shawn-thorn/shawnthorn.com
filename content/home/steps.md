@@ -15,16 +15,16 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
 [[feature]]
-  icon = "phone"
-  icon_pack = "fas"
-  name = "1 - __Free__: contact Shawn to set up an initial phone call."
-  description = "Shawn can let you know how he can help your child, as well as answer any questions you may have. You will not be asked to commit right away, and don't worry, you will not be contacted again without your consent."
-  
-[[feature]]
   icon = "wpexplorer"
   icon_pack = "fab"
-  name = "2 - __Free__: Discovery"
-  description = "This is when Shawn determines whether or not he is able to assist you. This can be done over the phone, and/or in person at your home."  
+  name = "1 - __Free__: Discovery"
+  description = "This is when Shawn determines whether or not he is able to assist you. This can be done over the phone. Shawn can let you know how he can help your child, as well as answer any questions you may have. You will not be asked to commit right away, and don't worry, you will not be contacted again without your consent."
+  
+[[feature]]
+  icon = "play-circle"
+  icon_pack = "far"
+  name = "2 - Getting Started"
+  description = "This is when Shawn meets with the parent(s) to discuss short- and long-term goals."  
   
 [[feature]]
   icon = "user-friends"
