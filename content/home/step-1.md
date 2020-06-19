@@ -5,10 +5,10 @@
 
 widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
+active = true  # Activate this widget? true/false
 weight = 21  # Order that this section will appear.
 
-title = "What does Step 1 look like?"
+title = "In-Person Therapy"
 subtitle = ""
 
 [design]
@@ -47,4 +47,4 @@ subtitle = ""
  css_class = ""
 +++
 
-Your initial phone call with Shawn will lead you through the initial phone call by asking questions about your child and family dynamics. 
+For in-person therapy, Shawn will work one-on-one with the child at your home using various techniques such as art therapy, social play, games, role play, positive reinforcement, visual charts, and many others. Occasionally, he will also meet with the family as a whole, as well as help the child adapt to outside environments such as grocery stores or restaurants via excursions.

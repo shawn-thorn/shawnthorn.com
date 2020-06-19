@@ -5,15 +5,16 @@
 
 widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
-weight = 44  # Order that this section will appear.
+active = true  # Activate this widget? true/false
+weight = 11  # Order that this section will appear.
 
-title = "Pricing"
-subtitle = ""
+title = "Operating in and around Vancouver, BC"
+subtitle = """
+"""
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
-  columns = "2"
+  columns = "1"
 
 [design.background]
   # Apply a background color, gradient, or image.
@@ -22,15 +23,15 @@ subtitle = ""
   #   Any HTML color name or Hex value is valid.
 
   # Background color.
-  color = "#3e6995"
-
+  # color = "navy"
+  
   # Background gradient.
   # gradient_start = "DeepSkyBlue"
   # gradient_end = "SkyBlue"
   
   # Background image.
-  # image = "sunny_sky.jpg"  # Name of image in `static/img/`.
-  # image_darken = 0.2  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
+  image = "vancouver.jpg"  # Name of image in `static/img/`.
+  image_darken = 0.3  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
 
   # Text color (true=light or false=dark).
   text_color_light = true
@@ -46,6 +47,3 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-
-Shawn's fees range between $90 - 110 per hour, depending on your location and/or therapy demands. 
-

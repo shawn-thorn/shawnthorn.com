@@ -6,9 +6,9 @@
 widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 23  # Order that this section will appear.
+weight = 24  # Order that this section will appear.
 
-title = "Team Expertise"
+title = "The Result"
 subtitle = ""
 
 [design]
@@ -47,4 +47,4 @@ subtitle = ""
  css_class = ""
 +++
 
-Shawn's holistic approach covers all areas of a child's development. Shawn's focus is behaviour and cognition, and he may carefully assemble a team of specialists such as tutors, speech pathologists, etc. whenever the child would benefit most from these resources. He remains in regular contact with the team to ensure your child is receiving the best help, by observing the child's classroom, home environment, present specialists, etc.
+An improved quality of life for the whole family, by helping your child build age-appropriate skills and confidence.

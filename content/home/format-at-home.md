@@ -8,7 +8,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 42  # Order that this section will appear.
 
-title = "At-home approach."
+title = "From the comfort of your home."
 subtitle = ""
 
 [design]

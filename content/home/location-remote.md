@@ -6,15 +6,15 @@
 widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 11  # Order that this section will appear.
+weight = 12  # Order that this section will appear.
 
-title = "Operating in and around Vancouver, BC"
+title = "Also offering remote sessions from anywhere."
 subtitle = """
 """
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
-  columns = "2"
+  columns = "1"
 
 [design.background]
   # Apply a background color, gradient, or image.
@@ -47,3 +47,5 @@ subtitle = """
  # CSS class.
  css_class = ""
 +++
+
+Beat the extra stress brought on by the COVID-19 pandemic.

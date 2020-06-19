@@ -16,11 +16,15 @@ height = ""
 # Slides.
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
-  title = '"...have observed significant improvements"'
+  title = """
+  "Thanks to Shawn's creative online sessions, my son is still able to continue learning"
+  """
   content = """
   Shawn started working with my 4 year-old son 5 years ago, who has ASD. Shawn established a rapport and an engaging relationship with him within a few sessions. Shawn coaches our son in areas that are challenging for him: specifically, social and contextual language skills; adaptability to changes; capability to stay on required agenda; and general developmental abilities.
 
   Our family (including our son's grandparents), his nanny and his teacher in school have observed significant improvements in various areas within the short 5 months. They were excited to "report" our son's openness and communication initiatives to me. Shawn takes a holistic approach in his work with our son and has become part of our family while maintaining his professionalism. He constantly thinks of ways to help our son and incorporates members of our family, teachers, and therapists in his approach so that our son has a consistently conducive environment in overcoming his challenges. In addition, Shawn exposes our son to everyday life situations with a firm and encouraging attitude so that our son is pushed appropriately to his learning potential with trust in "Shawn's way".
+
+  Shawn conducted his therapy sessions online effectively. My son continued to work on academic and social skills with the online sessions which were well thought-out. Although my son prefers in-person interaction, he still enjoys and benefits tremendously with the virtual sessions. All thanks to Shawn's creative online sessions, my son is still able to continue learning and shape his social behaviour while staying safe during this pandemic.
 
   Our family is very fortunate to have Shawn on board in helping our son's development and we look forward to more positive changes.
 

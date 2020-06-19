@@ -8,7 +8,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 22  # Order that this section will appear.
 
-title = "The Therapy Process"
+title = "Online Therapy"
 subtitle = ""
 
 [design]
@@ -47,6 +47,4 @@ subtitle = ""
  css_class = ""
 +++
 
-Shawn will primarily work one-on-one with the child at your home using various techniques such as art therapy, social play, games, role play, positive reinforcement, visual charts, and many others. Occasionally, he will also meet with the family as a whole, as well as help the child adapt to outside environments such as grocery stores or restaurants via excursions.
-
-Although Shawn's focus is behaviour and cognition, his holistic approach covers all areas of a child's development. This means he may carefully assemble a team of specialists such as tutors, speech pathologists, etc. whenever the child would benefit most from these resources. He remains in regular contact with the team to ensure your child is receiving the best help, by observing the child's classroom, home environment, present specialists, etc.
+For therapy held remotely, if it works for the child, Shawn will work one-on-one with the child using online exercises and video conferencing. Shawn will also meet with you, to help you help them. All you need is a computer equipped with a microphone and video camera, and an internet connection. We'll find a video conferencing program that works for you at no cost. 
