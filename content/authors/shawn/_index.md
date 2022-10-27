@@ -4,10 +4,10 @@ authors:
 email: "2stepsforward@gmail.com"
 name: "Shawn Thorn"
 role: "Child Therapist"
-# social:
-# - icon: envelope
-#   icon_pack: fas
-#   link: 'mailto:2stepsforward@gmail.com'
+social:
+- icon: instagram
+  icon_pack: fab
+  link: 'https://instagram.com/shawn.thorn/'
 # - icon: phone
 #   icon_pack: fas
 #   link: 'tel:7788684458'
