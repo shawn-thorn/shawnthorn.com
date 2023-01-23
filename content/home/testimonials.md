@@ -49,7 +49,7 @@ height = ""
 [[item]]
   title = '"It is Shawn who has changed our lives."'
   content = """
-  Our son was diagnosed with ASD and (PDD-NOS) at aged 2 and a half years old. Our son began showing more signs of autism and displayed challenging behaviours that were too difficult for us to handle.
+  Our son was diagnosed with ASD and (PDD-NOS) at aged 2 and a half years old. Our son began showing more signs of autism and displayed challenging behaviours that were too difficult for us to handle.
 
 We had hired several specialist that have worked with us over a period of 8 months,
 
@@ -57,7 +57,7 @@ However, it is Shawn who has changed our lives. His outstanding skill at dealing
 
 After 2 weeks of working with Shawn, our son ran to the window and waited for Shawn's car to pull up. He then ran to the door, took Shawn's hand and pulled him downstairs to the therapy room without giving me a backward glance. 
   
-Shawn truly has a unique way in bringing out the best in children, all children. We have come to rely upon Shawn for helping us with our son in all aspects of day to day living with a child that has autism. His methods and common sense make life so much easier for all of us and we value him as a person as well as a professional in this field.
+Shawn truly has a unique way in bringing out the best in children, all children. We have come to rely upon Shawn for helping us with our son in all aspects of day to day living with a child that has autism. His methods and common sense make life so much easier for all of us and we value him as a person as well as a professional in this field.
 
   - Frost, 2012
   """
@@ -145,7 +145,7 @@ Norman, 7-years-old, 2017
   content = """
 Shawn began by assisting our, then 9-year-old son, who was displaying academic and behavioural challenges. Shawn implemented therapy and methods that helped our son progress rapidly during the first month. His teachers, peers and other family members noticed the change almost immediately. Our son's confidence skyrocketed and he was able to absorb new information willingly. His confidence, self-independence, and self-worth strengthened. It took less than a couple of months before our son no longer thought of himself as "the dumb one" amongst his peers. 
 
-Thanks to Shawn's dedication, our son, now 16, is now attending one of the most prestigious schools, where he was one of a few who were selected out of hundreds. This accomplishment was due to his academic success, and his strong confidence to take on any task.
+Thanks to Shawn's dedication, our son, now 16, is now attending one of the most prestigious schools, where he was one of a few who were selected out of hundreds. This accomplishment was due to his academic success, and his strong confidence to take on any task.
 
 Shawn's extensive background in family relations helped counsel and guide our family through several personal crises. He provided a pro-active approach to problem solving with the family as a whole.
 
