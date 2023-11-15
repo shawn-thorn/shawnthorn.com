@@ -47,5 +47,3 @@ subtitle = """
  # CSS class.
  css_class = ""
 +++
-
-Beat the extra stress brought on by the COVID-19 pandemic.
