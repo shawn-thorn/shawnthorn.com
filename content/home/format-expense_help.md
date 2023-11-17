@@ -50,3 +50,5 @@ subtitle = ""
 Shawn charges $130 per hour. 
 
 If you live in British Columbia, you might qualify for assistance from the SelfDesign Learning Community, or the Autism Funding Unit if your child has an Autism Spectrum Disorder diagnosis.
+
+At this time, Shawn does not accept insurance or offer direct billing. Please refer to the back of your insurance card to find an eligible provider.
