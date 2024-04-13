@@ -47,3 +47,5 @@ subtitle = """
  # CSS class.
  css_class = ""
 +++
+
+Also offering remote sessions from anywhere.
