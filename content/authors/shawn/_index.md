@@ -19,3 +19,6 @@ user_groups:
 - Example1
 - Example2
 ---
+
+
+<!-- ![](img/group_children.jpeg) -->
